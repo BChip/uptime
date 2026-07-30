@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/deathslayer.com.ico",
     "slug": "deathslayer",
     "status": "down",
-    "uptime": "99.10%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.10%",
-    "uptimeMonth": "99.10%",
-    "uptimeYear": "99.10%",
+    "uptime": "48.40%",
+    "uptimeDay": "48.40%",
+    "uptimeWeek": "48.40%",
+    "uptimeMonth": "48.40%",
+    "uptimeYear": "48.40%",
     "time": 322,
     "timeDay": 322,
     "timeWeek": 322,
     "timeMonth": 322,
     "timeYear": 322,
     "dailyMinutesDown": {
-      "2026-07-30": 0
+      "2026-07-30": 37
     }
   },
   {
@@ -114,17 +114,17 @@
     "url": "https://webenclave.com",
     "icon": "https://icons.duckduckgo.com/ip3/webenclave.com.ico",
     "slug": "webenclave",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 496,
-    "timeDay": 496,
-    "timeWeek": 496,
-    "timeMonth": 496,
-    "timeYear": 496,
+    "time": 414,
+    "timeDay": 414,
+    "timeWeek": 414,
+    "timeMonth": 414,
+    "timeYear": 414,
     "dailyMinutesDown": {}
   },
   {
