@@ -16,7 +16,7 @@ sites:
   - name: OpenFret Health Ready
     url: https://openfret.com/api/health/ready
     headers:
-      x-health-check-password: "123"
+      - "x-health-check-password: 123"
   - name: Webenclave
     url: https://webenclave.com
   - name: Bradley Chippi
